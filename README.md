@@ -3,9 +3,9 @@
 **kumarpatil14/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/kumarpatil14/Profile/blob/main/coder.gif" />
 
-## <img src="https://github.com/kumarpatil14/Profile/blob/main/coder.gif" width="30px">&nbsp;***About me***
+## ***About me***
 
 I am Software Engineer at Softlink Global Pvt Ltd, Mumbai. I have working knowldge of ReactJS, Redux, Javascript, C#, Web API and MVC .
 * **I am interested in Web Aplication Developement**
